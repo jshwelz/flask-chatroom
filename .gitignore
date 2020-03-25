@@ -1,0 +1,4 @@
+__MACOSX/
+env/
+ENV/
+app/__pycache__/
