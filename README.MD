@@ -9,6 +9,7 @@ Run the backend using python3
 navigate to root folder on the root of the project then run
 
 ```
+virtualenv env
 source env/bin/activate
 pip3 install -r requirements.txt
 ```
